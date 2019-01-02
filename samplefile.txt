@@ -1,0 +1,8 @@
+tar -czvf /var/opt/ericsson/fmx/instances/$(RuleContext.instance)/tmp/Temp_$(RuleContext.CPPAttribute).tgz /var/opt/ericsson/fmx/instances/$(RuleContext.instance)/tmp/Temp_$(RuleContext.CPPAttribute)
+
+Working Tar :-
+tar -czvf /var/opt/ericsson/fmx/instances/$(RuleContext.instance)/tmp/Temp_$(RuleContext.CPPAttribute).tgz -C /var/opt/ericsson/fmx/instances/$(RuleContext.instance)/tmp/Temp_$(RuleContext.CPPAttribute) .
+
+This is a test file.
+Writing anything for the python code to work on this.
+I will be using regex to parse some information from this sample output.

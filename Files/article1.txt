@@ -1,0 +1,29 @@
+“Which would help you more if your quest was to learn about contemporary human society—unfettered access to a leading university’s department of sociology, packed with experts on how societies function, or unfettered access to Facebook, a company whose goal is to help mediate human social relationships online?”
+
+In 2005, when Erez Aiden Jean-Baptiste Michel were grad students, they spent a lot of time “thinking about the kinds of scopes scientists had access to and the ways in which those scopes made science possible. We became intrigued by what seemed like an off-the-wall idea. For a long time, both of us had been interested in the study of history.”
+
+But how does big data and history combine?
+
+At its core, this big data revolution is about how humans create and preserve a historical record of their activities. Its consequences will transform how we look at ourselves. It will enable the creation of new scopes that make it possible for our society to more effectively probe its own nature. Big data is going to change the humanities, transform the social sciences, and renegotiate the relationship between the world of commerce and the ivory tower.
+
+Fascinated by how human culture changes over time, they ended up writing a book Uncharted: Big Data as a Lens on Human Culture.
+
+Some of these changes are dramatic, but often they are so subtle as to be largely invisible to the unaided brain. Wouldn’t it be great, we thought, if we had something like a microscope to measure human culture, to identify and track all those tiny effects that we would never notice otherwise? Or a telescope that would allow us to do this from a great distance— on other continents, centuries ago? In short, was it possible to create a kind of scope that, instead of observing physical objects, would observe historical change?
+
+[…]
+
+As we were mulling this somewhat esoteric question, a revolution was occurring elsewhere that would sweep us up in its wake and lead millions of people to share our strange fascination. At its core, this big data revolution is about how humans create and preserve a historical record of their activities. Its consequences will transform how we look at ourselves. It will enable the creation of new scopes that make it possible for our society to more effectively probe its own nature.
+
+Ten thousand years ago, shepherds lost track of their sheep much like we lose track of things today. To solve this problem they hit upon the notion of counting.
+
+In retrospect, it might seem surprising that something as mundane as the desire to count sheep was the impetus for an advance as fundamental as written language. But the desire for written records has always accompanied economic activity, since transactions are meaningless unless you can clearly keep track of who owns what. As such, early human writing is dominated by wheeling and dealing: a menagerie of bets, chits, and contracts. Long before we had the writings of the prophets, we had the writings of the profits. In fact , many civilizations never got to the stage of recording and leaving behind the kinds of great literary works that we often associate with the history of culture. What survives these ancient societies is, for the most part, a pile of receipts. If it weren’t for the commercial enterprises that produced those records, we would know far, far less about the cultures that they came from.
+
+Today many commercial enterprises make their living off those records. Google, Facebook, Twitter, and the like keep digital and often personal and permenant records of your activity.
+
+Google will remember every word of that angry e-mail long after we’ve forgotten the name of the person we sent it to. Facebook’s photos will chronicle the details of that night at the bar even if we woke up with a fuzzy brain and a massive hangover. If we write a book, Google scans it; if we take a photo, Flickr stores it; if we make a movie, YouTube streams it.
+
+These digital breadcrumbs provide a lens on human culture. To answer the question posed at the top:
+
+On the one hand, the members of the sociology faculty benefit from brilliant insights culled from many lifetimes dedicated to learning and study. On the other hand, Facebook is part of the day-to-day social lives of a billion people. It knows where they live and work, where they play and with whom, what they like, when they get sick, and what they talk about with their friends. So the answer to our question may very well be Facebook.
+
+Uncharted: Big Data as a Lens on Human Culture chronicles a seven-year quest to quantify cultural change through the lens of Google’s archive of books. This is both big data and long data. The core of the project is to explore how word usage changes over time and hypothesize about what that means to culture.
